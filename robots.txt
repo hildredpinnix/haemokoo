@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noopaekohz.crz.so/sitemap.xml
